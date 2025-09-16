@@ -9,3 +9,5 @@
 
 ## How I Used This in My Research  
 In my project, I’m investigating the **effect of off-platform visits on Youtube's algorithm**, especially how recommendation systems might use your data collected by other sites. 
+## Comments - Alisha Atif
+I found the research on YouTube recommendation bias really interesting. The use of bots with different political personas makes the experiment feel systematic and convincing. It also connects with my own curiosity about how platforms use off site data to influence what we see on YouTube.
