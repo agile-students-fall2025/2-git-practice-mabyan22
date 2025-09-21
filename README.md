@@ -15,3 +15,5 @@ I found the research on YouTube recommendation bias really interesting. The use 
 ## Comments - Talal Naveed
 I think this research is fascinating because it highlights how even a "neutral" new user can be nudged by algorithmic bias. The use of bots with distinct political personas adds credibility to the findings. It also ties nicely to your project since both explore how unseen mechanisms shape the content we’re shown.
 
+## Comments - Zuhair Khalid
+I really like this article because it combines a creative experimental design with real-world impact, showing how bots can uncover patterns in recommendation systems that are otherwise hidden. I also appreciate how you connected it to your own research, it makes the broader significance of the study much clearer.
